@@ -137,4 +137,8 @@ public class HangmanGameService {
     }
     return stringBuilder.toString();
   }
+
+  public List<HangmanGame> getAllGames() {
+    return storedGamesCollection;
+  }
 }
