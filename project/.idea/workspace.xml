@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f00dd94f-b371-491b-818e-07f8e5188c02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/HangmanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/HangmanApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HangmanGameRestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HangmanGameRestApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/config/GameConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/config/GameConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/entity/HangmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/entity/HangmanGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/HangmanGameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/HangmanGameService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/FileWordProvider.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/GenericWordProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/GenericWordProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/WordProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/WordProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameRestApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameRestApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameServiceTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2wqVTkqNlUXSP5tZiemYTCRKtpy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.HangmanApplicationTests and 2 more.executor": "Run",
+    "JUnit.HangmanGameRestApiTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.HangmanApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kirilldomrachev/Downloads/week-3-spring-mvc-rest-api/project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.HangmanApplication">
+    <configuration name="HangmanApplicationTests and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hangman" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="pu.fmi.game.hangman.HangmanApplicationTests" />
+        <pattern testClass="pu.fmi.game.hangman.HangmanGameRestApiTest" />
+        <pattern testClass="pu.fmi.game.hangman.HangmanGameServiceTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HangmanGameRestApiTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hangman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pu.fmi.game.hangman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pu.fmi.game.hangman" />
+      <option name="MAIN_CLASS_NAME" value="pu.fmi.game.hangman.HangmanGameRestApiTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HangmanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="hangman" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pu.fmi.game.hangman.HangmanApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.HangmanApplicationTests and 2 more" />
+        <item itemvalue="JUnit.HangmanGameRestApiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f00dd94f-b371-491b-818e-07f8e5188c02" name="Changes" comment="" />
+      <created>1746769100192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746769100192</updated>
+      <workItem from="1746769101261" duration="2131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
