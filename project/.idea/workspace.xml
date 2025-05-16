@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f00dd94f-b371-491b-818e-07f8e5188c02" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/HangmanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/HangmanApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HangmanGameRestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HangmanGameRestApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/config/GameConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/config/GameConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/entity/HangmanGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/entity/HangmanGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/hangman_game_db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/hangman_game_db.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/repository/GameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/repository/GameRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/HangmanGameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/HangmanGameService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/FileWordProvider.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/GenericWordProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/GenericWordProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/WordProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/wordprovider/WordProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameRestApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameRestApiTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/test/java/pu/fmi/game/hangman/HangmanGameServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,29 +26,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.HangmanApplicationTests and 2 more.executor": "Run",
-    "JUnit.HangmanGameRestApiTest.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.HangmanApplication.executor": "Run",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kirilldomrachev/Downloads/week-3-spring-mvc-rest-api/project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.HangmanApplicationTests and 2 more.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HangmanGameRestApiTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.HangmanApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kirilldomrachev/Downloads/week-3-spring-mvc-rest-api/project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Spring Boot.HangmanApplication">
+}</component>
+  <component name="RunManager" selected="JUnit.HangmanGameRestApiTest">
     <configuration name="HangmanApplicationTests and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hangman" />
       <option name="TEST_OBJECT" value="pattern" />
@@ -102,8 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HangmanApplicationTests and 2 more" />
         <item itemvalue="JUnit.HangmanGameRestApiTest" />
+        <item itemvalue="JUnit.HangmanApplicationTests and 2 more" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746769100192</updated>
-      <workItem from="1746769101261" duration="2131000" />
+      <workItem from="1746769101261" duration="3331000" />
     </task>
     <servers />
   </component>
