@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b5ed29d-4176-4e93-b2ae-de1d2d82f604" name="Changes" comment="" />
+    <list default="true" id="1b5ed29d-4176-4e93-b2ae-de1d2d82f604" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/hangman_game_db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/hangman_game_db.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/hangman/src/main/frontend/src/HangmanGame.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/project/hangman/src/main/frontend/src/HangmanGame.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,17 +25,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/kirilldomrachev/Downloads/week-3-spring-mvc-rest-api&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.HangmanApplicationTests and 2 more.executor": "Run",
+    "JUnit.HangmanGameServiceTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "650",
+    "RequestMappingsPanelWidth1": "649",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.HangmanApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/kirilldomrachev/Downloads/week-3-spring-mvc-rest-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Spring Boot.HangmanApplication">
     <configuration name="HangmanApplicationTests and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hangman" />
@@ -42,6 +62,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HangmanGameServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hangman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pu.fmi.game.hangman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pu.fmi.game.hangman" />
+      <option name="MAIN_CLASS_NAME" value="pu.fmi.game.hangman.HangmanGameServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HangmanApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="hangman" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="pu.fmi.game.hangman.HangmanApplication" />
@@ -51,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HangmanGameServiceTest" />
         <item itemvalue="JUnit.HangmanApplicationTests and 2 more" />
       </list>
     </recent_temporary>
@@ -71,6 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746769016003</updated>
       <workItem from="1746769017119" duration="51000" />
+      <workItem from="1748014946145" duration="5503000" />
     </task>
     <servers />
   </component>
