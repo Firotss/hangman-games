@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f00dd94f-b371-491b-818e-07f8e5188c02" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/hangman_game_db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/db/hangman_game_db.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/hangman_game_db.mv.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/db/hangman_game_db.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/db/hangman_game_db.mv.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HangmanGameRestApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/controllers/HangmanGameRestApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/repository/GameRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/repository/GameRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/GameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/GameService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/HangmanGameService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hangman/src/main/java/pu/fmi/game/hangman/model/service/HangmanGameService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +35,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;JUnit.HangmanApplicationTests and 2 more.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.HangmanApplicationTests.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.HangmanGameRestApiTest.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
@@ -52,7 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.HangmanGameRestApiTest">
+  <component name="RunManager" selected="JUnit.HangmanApplicationTests">
     <configuration name="HangmanApplicationTests and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hangman" />
       <option name="TEST_OBJECT" value="pattern" />
@@ -61,6 +68,21 @@
         <pattern testClass="pu.fmi.game.hangman.HangmanGameRestApiTest" />
         <pattern testClass="pu.fmi.game.hangman.HangmanGameServiceTest" />
       </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HangmanApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hangman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pu.fmi.game.hangman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pu.fmi.game.hangman" />
+      <option name="MAIN_CLASS_NAME" value="pu.fmi.game.hangman.HangmanApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,8 +111,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HangmanGameRestApiTest" />
+        <item itemvalue="JUnit.HangmanApplicationTests" />
         <item itemvalue="JUnit.HangmanApplicationTests and 2 more" />
+        <item itemvalue="JUnit.HangmanGameRestApiTest" />
       </list>
     </recent_temporary>
   </component>
@@ -110,6 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746769100192</updated>
       <workItem from="1746769101261" duration="3331000" />
+      <workItem from="1748014917260" duration="27000" />
     </task>
     <servers />
   </component>

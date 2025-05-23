@@ -1,6 +1,7 @@
 package pu.fmi.game.hangman.controllers;
 
 import java.util.List;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -14,6 +15,7 @@ import pu.fmi.game.hangman.model.service.HangmanGameService;
 
 @RestController
 @RequestMapping("/hangman-games")
+@CrossOrigin("http://localhost:5173")
 public class HangmanGameRestApi {
 
   public final HangmanGameService hangmanGameService;
@@ -46,7 +48,7 @@ public class HangmanGameRestApi {
   // GET /hangman-games
   @GetMapping
   public List<HangmanGame> fetchAllGames() {
-    return hangmanGameService.getAllGames();
+    return hangmanGameService.findTop10ByOrderByStartedOnDateDesc();
   }
 
   // GET /hangman-games/status

@@ -10,8 +10,6 @@ public interface GameRepository extends JpaRepository<HangmanGame, Long> {
   // SELECT * FROM HANGMAN_GAME
   // WHERE STATUS = ?
   List<HangmanGame> findByStatus(Status status);
-  List<HangmanGame> findTop10ByOrderByStartedOnDateDesc();
 
-  // TODO: Add query method to find first 10 games ordered by started on date desc
-  // Look here for examples: https://docs.spring.io/spring-data/jpa/reference/repositories/query-methods-details.html#repositories.limit-query-result
+  List<HangmanGame> findTop10ByOrderByStartedOnDateDesc();
 }

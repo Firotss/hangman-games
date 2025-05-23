@@ -92,12 +92,17 @@ public class HangmanGameService implements GameService {
 
   @Override
   public List<HangmanGame> getAllGames(){
-    return this.gameRepository.findTop10ByOrderByStartedOnDateDesc();
+    return this.gameRepository.findAll();
   }
 
   @Override
   public List<HangmanGame> findAllByStatus(Status status){
     return gameRepository.findByStatus(status);
+  }
+
+  @Override
+  public  List<HangmanGame> findTop10ByOrderByStartedOnDateDesc(){
+    return gameRepository.findTop10ByOrderByStartedOnDateDesc();
   }
 
   private boolean checkIsLetterWrong(String wordToGuess, char letter){
